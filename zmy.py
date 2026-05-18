@@ -5,11 +5,7 @@ print("hello")
 
 print("world")
 
-print("zmy")
-print("this is another line")
-print("hello world")
-print("this is a test")
-print("this is another line")
+import sys
+print(sys.path)
 
-
-print("zmy666")
+print("hello")
